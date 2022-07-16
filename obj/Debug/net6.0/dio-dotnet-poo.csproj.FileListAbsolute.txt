@@ -1,0 +1,15 @@
+D:\workspace\Repositorios\dio-dotnet-poo\bin\Debug\net6.0\dio-dotnet-poo.exe
+D:\workspace\Repositorios\dio-dotnet-poo\bin\Debug\net6.0\dio-dotnet-poo.deps.json
+D:\workspace\Repositorios\dio-dotnet-poo\bin\Debug\net6.0\dio-dotnet-poo.runtimeconfig.json
+D:\workspace\Repositorios\dio-dotnet-poo\bin\Debug\net6.0\dio-dotnet-poo.dll
+D:\workspace\Repositorios\dio-dotnet-poo\bin\Debug\net6.0\dio-dotnet-poo.pdb
+D:\workspace\Repositorios\dio-dotnet-poo\obj\Debug\net6.0\dio-dotnet-poo.csproj.AssemblyReference.cache
+D:\workspace\Repositorios\dio-dotnet-poo\obj\Debug\net6.0\dio-dotnet-poo.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\Repositorios\dio-dotnet-poo\obj\Debug\net6.0\dio-dotnet-poo.AssemblyInfoInputs.cache
+D:\workspace\Repositorios\dio-dotnet-poo\obj\Debug\net6.0\dio-dotnet-poo.AssemblyInfo.cs
+D:\workspace\Repositorios\dio-dotnet-poo\obj\Debug\net6.0\dio-dotnet-poo.csproj.CoreCompileInputs.cache
+D:\workspace\Repositorios\dio-dotnet-poo\obj\Debug\net6.0\dio-dotnet-poo.dll
+D:\workspace\Repositorios\dio-dotnet-poo\obj\Debug\net6.0\refint\dio-dotnet-poo.dll
+D:\workspace\Repositorios\dio-dotnet-poo\obj\Debug\net6.0\dio-dotnet-poo.pdb
+D:\workspace\Repositorios\dio-dotnet-poo\obj\Debug\net6.0\dio-dotnet-poo.genruntimeconfig.cache
+D:\workspace\Repositorios\dio-dotnet-poo\obj\Debug\net6.0\ref\dio-dotnet-poo.dll
